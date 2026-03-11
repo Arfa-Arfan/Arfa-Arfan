@@ -16,7 +16,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Cpp,python,html,github,git,js,linkedin,sql,anaconda,xd&perline=5)](https://skillicons.dev)
 
 ![Arfa-ARfan GitHub stats](https://github-readme-stats.vercel.app/api?username=Arfa-Arfan&show_icons=true&theme=dark)
 
@@ -24,4 +24,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [Arfa-Arfan](https://github.com/Arfa-Arfan)
