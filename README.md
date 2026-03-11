@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  🎓 **Bachelors in Computer Science** (2022 - 2026)
+  🎓 **Bachelors in Computer Science** 
   
   🔭 I’m currently working on **Machine Learning & AI Projects**
   
